@@ -202,13 +202,6 @@
       "title": "<div> AS: AS15169<br> [GOOGLE] Amsterdam North Holland Netherlands google.com</div>"
     },
     {
-      "id": "190.2.132.2",
-      "label": "190.2.132.2",
-      "as": "AS49981",
-      "cx": "[LACNIC-CIDR] Naaldwijk South Holland Netherlands worldstream.com",
-      "title": "<div> AS: AS49981<br> [LACNIC-CIDR] Naaldwijk South Holland Netherlands worldstream.com</div>"
-    },
-    {
       "id": "109.236.95.228",
       "label": "109.236.95.228",
       "as": "AS49981",
@@ -414,13 +407,6 @@
       "title": "<div> AS: AS174<br> [COGENT-149] London England United Kingdom cogentco.com</div>"
     },
     {
-      "id": "89.187.179.61",
-      "label": "89.187.179.61",
-      "as": "AS60068",
-      "cx": "New York City New York United States cdn77.com",
-      "title": "<div> AS: AS60068<br> New York City New York United States cdn77.com</div>"
-    },
-    {
       "id": "185.229.188.176",
       "label": "185.229.188.176",
       "as": "AS60068",
@@ -613,7 +599,7 @@
       "to": "142.251.36.14"
     },
     {
-      "from": "190.2.132.2",
+      "from": "190.2.132.3",
       "to": "109.236.95.228"
     },
     {
@@ -625,7 +611,7 @@
       "to": "157.240.201.35"
     },
     {
-      "from": "190.2.132.2",
+      "from": "190.2.132.3",
       "to": "80.249.210.100"
     },
     {
@@ -673,7 +659,7 @@
       "to": "38.88.224.218"
     },
     {
-      "from": "190.2.132.2",
+      "from": "190.2.132.3",
       "to": "109.236.95.228"
     },
     {
@@ -737,7 +723,7 @@
       "to": "149.11.161.178"
     },
     {
-      "from": "89.187.179.61",
+      "from": "89.187.179.60",
       "to": "185.229.188.176"
     },
     {
@@ -773,7 +759,7 @@
       "to": "54.239.28.85"
     },
     {
-      "from": "89.187.179.61",
+      "from": "89.187.179.60",
       "to": "185.229.188.176"
     },
     {
@@ -793,7 +779,7 @@
       "to": "108.166.232.46"
     },
     {
-      "from": "89.187.179.61",
+      "from": "89.187.179.60",
       "to": "185.229.188.176"
     },
     {
