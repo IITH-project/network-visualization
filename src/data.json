@@ -79,15 +79,6 @@
       "title": "<div> AS: AS6453<br> Los Angeles California United States tatacommunications.com</div>"
     },
     {
-      "id": "108.166.228.37",
-      "label": "108.166.228.37",
-      "as": "AS16509",
-      "cx": "[AMAZO-4] Oregon United States amazon.com",
-      "title": "<div> AS: AS16509<br> [AMAZO-4] Oregon United States amazon.com</div>",
-      "shape":"image",
-      "image":"netflix.png"
-    },
-    {
       "id": "45.134.215.23",
       "label": "45.134.215.23",
       "as": "AS60068",
@@ -382,15 +373,6 @@
       "title": "<div> AS: AS15169<br> New York City New York United States google.com</div>"
     },
     {
-      "id": "142.250.72.110",
-      "label": "142.250.72.110",
-      "as": "AS15169",
-      "cx": "[GOOGLE] New York City New York United States google.com",
-      "title": "<div> AS: AS15169<br> [GOOGLE] New York City New York United States google.com</div>",
-      "shape":"image",
-      "image":"google.png"
-    },
-    {
       "id": "50.220.200.185",
       "label": "50.220.200.185",
       "as": "AS7922",
@@ -594,13 +576,6 @@
       "as": "AS13335",
       "cx": "Cloudflare, Inc.",
       "title": "<div> AS:AS13335<br>         Cloudflare, Inc.</div>"
-    },
-    {
-      "id": "192.168.48.33",
-      "label": "192.168.48.33",
-      "as": "",
-      "cx": "",
-      "title": "<div> AS:<br></div>"
     },
     {
       "id": "125.18.92.93",
@@ -873,7 +848,7 @@
     },
     {
       "from": "64.86.252.32",
-      "to": "108.166.228.37"
+      "to": "52.93.0.73"
     },
     {
       "from": "37.19.205.157",
@@ -1041,7 +1016,7 @@
     },
     {
       "from": "72.14.204.154",
-      "to": "142.250.72.110"
+      "to": "142.250.67.46"
     },
     {
       "from": "89.187.179.60",
@@ -1185,7 +1160,7 @@
       "to": "141.193.213.10"
     },
     {
-      "from": "192.168.48.33",
+      "from": "182.79.27.25",
       "to": "125.18.92.93"
     },
     {

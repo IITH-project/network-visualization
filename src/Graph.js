@@ -12,7 +12,7 @@ export default function MyGraph() {
     nodes:{
       size:25
     },
-    height: "600px",
+    height: "750px",
   };
   return (
     <div>
