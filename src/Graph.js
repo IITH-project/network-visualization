@@ -10,8 +10,7 @@ export default function MyGraph() {
       width:2.5
     },
     nodes:{
-      size:35
-      
+      size:25
     },
     height: "600px",
   };
