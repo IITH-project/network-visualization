@@ -4,11 +4,11 @@ import Graph from "react-vis-network-graph";
 import graph from './data.json'
 export default function MyGraph() {
   const options = {
-    // physics: { enabled: false },
+   interaction:{navigationButtons:true},
     edges: {
       color: "#FF0000",
     },
-    height: "500px",
+    height: "600px",
   };
   return (
     <div>
