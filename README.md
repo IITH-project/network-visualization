@@ -69,7 +69,10 @@ Throughout the course of this project, several significant insights have emerged
 5. **Decentralization and Resilience**:
    The decentralized nature of the internet, along with its redundant connections, contributes to its resilience. Even if certain nodes or links fail, the network can often reroute traffic through alternative paths.
 
-
+## Group Member
+  - Rauvla Karthik   AI21BTECH11024 
+  - Suraj Kumar      AI21BTECH11029
+  - Shivanshu        AI21BTECH11027
 
 ## Resources And Links
 
