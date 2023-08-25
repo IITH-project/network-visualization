@@ -518,7 +518,332 @@
       "title": "<div> AS: AS13414<br> [TWITTER-NETWORK] San Francisco California United States twitter.com</div>",
       "shape":"image",
       "image":"twitter.png"
+    },
+
+
+    {
+      "id": "192.168.48.49",
+      "label": "192.168.48.49",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "182.79.27.25",
+      "label": "182.79.27.25",
+      "as": "AS9498",
+      "cx": "Bharti Airtel Limited",
+      "title": "<div> AS:AS9498<br>         Bharti Airtel Limited</div>"
+    },
+    {
+      "id": "182.79.239.197",
+      "label": "182.79.239.197",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "129.134.52.85",
+      "label": "129.134.52.85",
+      "as": "AS32934",
+      "cx": "Facebook, Inc",
+      "title": "<div> AS:AS32934<br>     Facebook, Inc</div>"
+    },
+    {
+      "id": "157.240.16.35",
+      "label": "157.240.16.35",
+      "as": "AS32934",
+      "cx": "Facebook, Inc.",
+      "title": "<div> AS:AS32934<br>     Facebook, Inc.</div>"
+    },
+    {
+      "id": "182.79.198.6",
+      "label": "182.79.198.6",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "142.251.55.67",
+      "label": "142.251.55.67",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "142.250.67.46",
+      "label": "142.250.67.46",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "116.119.73.110",
+      "label": "116.119.73.110",
+      "as": "AS55536",
+      "cx": "PACSWITCH GLOBE TELECOM LIMITED",
+      "title": "<div> AS:AS55536<br>         PACSWITCH GLOBE TELECOM LIMITED</div>"
+    },
+    {
+      "id": "172.71.200.2",
+      "label": "172.71.200.2",
+      "as": "AS13335",
+      "cx": "Cloudflare, Inc.",
+      "title": "<div> AS:AS13335<br>         Cloudflare, Inc.</div>"
+    },
+    {
+      "id": "141.193.213.10",
+      "label": "141.193.213.10",
+      "as": "AS209242",
+      "cx": "WPEngine, Inc.",
+      "title": "<div> AS:AS209242<br>         WPEngine, Inc.</div>"
+    },
+    {
+      "id": "192.168.48.33",
+      "label": "192.168.48.33",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "125.18.92.93",
+      "label": "125.18.92.93",
+      "as": "AS9498",
+      "cx": "BHARTI-IN",
+      "title": "<div> AS:AS9498<br>       BHARTI-IN</div>"
+    },
+    {
+      "id": "116.119.81.14",
+      "label": "116.119.81.14",
+      "as": "AS55536",
+      "cx": "PACSWITCH GLOBE TELECOM LIMITED",
+      "title": "<div> AS:AS55536<br>         PACSWITCH GLOBE TELECOM LIMITED</div>"
+    },
+    {
+      "id": "103.102.166.226",
+      "label": "103.102.166.226",
+      "as": "AS14907",
+      "cx": "Wikimedia Foundation, Inc.",
+      "title": "<div> AS:AS14907<br>         Wikimedia Foundation, Inc.</div>"
+    },
+    {
+      "id": "116.119.44.136",
+      "label": "116.119.44.136",
+      "as": "AS55536",
+      "cx": "PACSWITCH GLOBE TELECOM LIMITED",
+      "title": "<div> AS:AS55536<br>         PACSWITCH GLOBE TELECOM LIMITED</div>"
+    },
+    {
+      "id": "52.93.92.31",
+      "label": "52.93.92.31",
+      "as": "AS16509",
+      "cx": "Amazon global prefix",
+      "title": "<div> AS:AS16509<br>     Amazon global prefix</div>"
+    },
+    {
+      "id": "205.251.242.103",
+      "label": "205.251.242.103",
+      "as": "AS16509",
+      "cx": "Amazon IAD Prefix",
+      "title": "<div> AS:AS16509<br>     Amazon IAD Prefix</div>"
+    },
+    {
+      "id": "116.119.109.124",
+      "label": "116.119.109.124",
+      "as": "AS55536",
+      "cx": "PACSWITCH GLOBE TELECOM LIMITED",
+      "title": "<div> AS:AS55536<br>         PACSWITCH GLOBE TELECOM LIMITED</div>"
+    },
+    {
+      "id": "62.115.49.181",
+      "label": "62.115.49.181",
+      "as": "AS1299",
+      "cx": "Arelion, Twelve99, f/k/a Telia Carrier",
+      "title": "<div> AS:AS1299<br>         Arelion, Twelve99, f/k/a Telia Carrier</div>"
+    },
+    {
+      "id": "104.244.42.193",
+      "label": "104.244.42.193",
+      "as": "AS13414",
+      "cx": "Twitter route",
+      "title": "<div> AS:AS13414<br>     Twitter route</div>"
+    },
+    {
+      "id": "99.82.179.122",
+      "label": "99.82.179.122",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "15.230.251.1",
+      "label": "15.230.251.1",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "18.155.33.64",
+      "label": "18.155.33.64",
+      "as": "AS16509",
+      "cx": "Amazon Cloudfront",
+      "title": "<div> AS:AS16509<br>     Amazon Cloudfront</div>"
+    },
+    {
+      "id": "80.81.192.251",
+      "label": "80.81.192.251",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "5.255.255.80",
+      "label": "5.255.255.80",
+      "as": "AS13238",
+      "cx": "Yandex enterprise network",
+      "title": "<div> AS:AS13238<br>         Yandex enterprise network</div>"
+    },
+    {
+      "id": "142.250.169.206",
+      "label": "142.250.169.206",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "216.239.32.21",
+      "label": "216.239.32.21",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "74.125.252.91",
+      "label": "74.125.252.91",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "34.98.127.226",
+      "label": "34.98.127.226",
+      "as": "AS396982",
+      "cx": "Google",
+      "title": "<div> AS:AS396982<br>     Google</div>"
+    },
+    {
+      "id": "104.44.19.216",
+      "label": "104.44.19.216",
+      "as": "AS8075",
+      "cx": "MICROSOFT",
+      "title": "<div> AS:AS8075<br>     MICROSOFT</div>"
+    },
+    {
+      "id": "104.44.30.213",
+      "label": "104.44.30.213",
+      "as": "AS8075",
+      "cx": "MICROSOFT",
+      "title": "<div> AS:AS8075<br>     MICROSOFT</div>"
+    },
+    {
+      "id": "40.81.95.116",
+      "label": "40.81.95.116",
+      "as": "AS8075",
+      "cx": "Microsoft",
+      "title": "<div> AS:AS8075<br>     Microsoft</div>"
+    },
+    {
+      "id": "103.232.241.70",
+      "label": "103.232.241.70",
+      "as": "AS59193",
+      "cx": "route for 103.232.241.0/24 IIT-Hyderabad",
+      "title": "<div> AS:AS59193<br>         route for 103.232.241.0/24 IIT-Hyderabad</div>"
+    },
+    {
+      "id": "10.119.254.121",
+      "label": "10.119.254.121",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "10.160.24.5",
+      "label": "10.160.24.5",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "173.252.67.125",
+      "label": "173.252.67.125",
+      "as": "AS32934",
+      "cx": "facebook, inc.",
+      "title": "<div> AS:AS32934<br>     facebook, inc.</div>"
+    },
+    {
+      "id": "10.119.73.122",
+      "label": "10.119.73.122",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "72.14.195.128",
+      "label": "72.14.195.128",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
+    },
+    {
+      "id": "115.247.100.29",
+      "label": "115.247.100.29",
+      "as": "AS55836",
+      "cx": "RJIL Internet IP Pool",
+      "title": "<div> AS:AS55836<br>     RJIL Internet IP Pool</div>"
+    },
+    {
+      "id": "172.71.196.4",
+      "label": "172.71.196.4",
+      "as": "AS13335",
+      "cx": "Cloudflare, Inc.",
+      "title": "<div> AS:AS13335<br>         Cloudflare, Inc.</div>"
+    },
+    {
+      "id": "10.255.221.33",
+      "label": "10.255.221.33",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "104.244.42.1",
+      "label": "104.244.42.1",
+      "as": "AS13414",
+      "cx": "Twitter route",
+      "title": "<div> AS:AS13414<br>     Twitter route</div>"
+    },
+    {
+      "id": "10.255.222.33",
+      "label": "10.255.222.33",
+      "as": "",
+      "cx": "",
+      "title": "<div> AS:<br></div>"
+    },
+    {
+      "id": "77.88.55.80",
+      "label": "77.88.55.80",
+      "as": "AS13238",
+      "cx": "Yandex enterprise network",
+      "title": "<div> AS:AS13238<br>         Yandex enterprise network</div>"
+    },
+    {
+      "id": "142.251.55.243",
+      "label": "142.251.55.243",
+      "as": "AS15169",
+      "cx": "Google",
+      "title": "<div> AS:AS15169<br>     Google</div>"
     }
+
   ],
   "edges":[
     {
@@ -832,6 +1157,224 @@
     {
       "from": "62.115.179.131",
       "to": "104.244.42.1"
+    },
+
+    {
+      "from": "192.168.48.49",
+      "to": "182.79.27.25"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "182.79.239.197"
+    },
+    {
+      "from": "182.79.239.197",
+      "to": "129.134.52.85"
+    },
+    {
+      "from": "129.134.52.85",
+      "to": "157.240.16.35"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "182.79.198.6"
+    },
+    {
+      "from": "182.79.198.6",
+      "to": "142.251.55.67"
+    },
+    {
+      "from": "142.251.55.67",
+      "to": "142.250.67.46"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "116.119.73.110"
+    },
+    {
+      "from": "116.119.73.110",
+      "to": "172.71.200.2"
+    },
+    {
+      "from": "172.71.200.2",
+      "to": "141.193.213.10"
+    },
+    {
+      "from": "192.168.48.33",
+      "to": "125.18.92.93"
+    },
+    {
+      "from": "125.18.92.93",
+      "to": "116.119.81.14"
+    },
+    {
+      "from": "116.119.81.14",
+      "to": "103.102.166.226"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "116.119.44.136"
+    },
+    {
+      "from": "116.119.44.136",
+      "to": "52.93.92.31"
+    },
+    {
+      "from": "52.93.92.31",
+      "to": "205.251.242.103"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "116.119.109.124"
+    },
+    {
+      "from": "116.119.109.124",
+      "to": "62.115.49.181"
+    },
+    {
+      "from": "62.115.49.181",
+      "to": "104.244.42.193"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "99.82.179.122"
+    },
+    {
+      "from": "99.82.179.122",
+      "to": "15.230.251.1"
+    },
+    {
+      "from": "15.230.251.1",
+      "to": "18.155.33.64"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "80.81.192.251"
+    },
+    {
+      "from": "80.81.192.251",
+      "to": "5.255.255.80"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "142.250.169.206"
+    },
+    {
+      "from": "142.250.169.206",
+      "to": "216.239.32.21"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "74.125.252.91"
+    },
+    {
+      "from": "74.125.252.91",
+      "to": "34.98.127.226"
+    },
+    {
+      "from": "182.79.27.25",
+      "to": "104.44.19.216"
+    },
+    {
+      "from": "104.44.19.216",
+      "to": "104.44.30.213"
+    },
+    {
+      "from": "104.44.30.213",
+      "to": "40.81.95.116"
+    },
+    {
+      "from": "103.232.241.70",
+      "to": "10.119.254.121"
+    },
+    {
+      "from": "10.119.254.121",
+      "to": "10.160.24.5"
+    },
+    {
+      "from": "10.160.24.5",
+      "to": "173.252.67.125"
+    },
+    {
+      "from": "173.252.67.125",
+      "to": "157.240.16.35"
+    },
+    {
+      "from": "10.119.254.121",
+      "to": "10.119.73.122"
+    },
+    {
+      "from": "10.119.73.122",
+      "to": "72.14.195.128"
+    },
+    {
+      "from": "72.14.195.128",
+      "to": "142.250.67.46"
+    },
+    {
+      "from": "10.160.24.5",
+      "to": "115.247.100.29"
+    },
+    {
+      "from": "115.247.100.29",
+      "to": "172.71.196.4"
+    },
+    {
+      "from": "172.71.196.4",
+      "to": "141.193.213.10"
+    },
+    {
+      "from": "10.160.24.5",
+      "to": "103.102.166.226"
+    },
+    {
+      "from": "10.160.24.5",
+      "to": "10.255.221.33"
+    },
+    {
+      "from": "10.255.221.33",
+      "to": "115.247.100.29"
+    },
+    {
+      "from": "115.247.100.29",
+      "to": "104.244.42.1"
+    },
+    {
+      "from": "10.160.24.5",
+      "to": "10.255.222.33"
+    },
+    {
+      "from": "10.255.222.33",
+      "to": "115.247.100.29"
+    },
+    {
+      "from": "115.247.100.29",
+      "to": "18.155.33.64"
+    },
+    {
+      "from": "10.119.254.121",
+      "to": "10.255.222.33"
+    },
+    {
+      "from": "115.247.100.29",
+      "to": "77.88.55.80"
+    },
+    {
+      "from": "10.119.73.122",
+      "to": "216.239.32.21"
+    },
+    {
+      "from": "10.119.254.121",
+      "to": "142.251.55.243"
+    },
+    {
+      "from": "142.251.55.243",
+      "to": "34.98.127.226"
+    },
+    {
+      "from": "10.119.254.121",
+      "to": "104.44.30.213"
     }
+
   ]
 }
