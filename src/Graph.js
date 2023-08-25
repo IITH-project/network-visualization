@@ -7,6 +7,11 @@ export default function MyGraph() {
    interaction:{navigationButtons:true},
     edges: {
       color: "#FF0000",
+      width:2.5
+    },
+    nodes:{
+      size:35
+      
     },
     height: "600px",
   };
