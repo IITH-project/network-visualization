@@ -6,13 +6,15 @@ export default function MyGraph() {
   const options = {
    interaction:{navigationButtons:true},
     edges: {
-      color: "#FF0000",
-      width:2.5
+      color: "#000000",
+      width:2,
+      length:150
     },
     nodes:{
-      size:25
+      size:30
     },
     height: "750px",
+
   };
   return (
     <div>

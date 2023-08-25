@@ -7,7 +7,9 @@
       "cx": "Tokyo Tokyo Japan cdn77.com",
       "title": "<div> AS: AS212238<br> Tokyo Tokyo Japan cdn77.com</div>",
       "shape":"image",
-      "image":"japan.png"
+      "image":"japan.png",
+      "size":50,
+      "shadow":true
 
     },
     {
@@ -186,7 +188,9 @@
       "cx": "[LACNIC-CIDR] Naaldwijk South Holland Netherlands worldstream.com",
       "title": "<div> AS: AS49981<br> [LACNIC-CIDR] Naaldwijk South Holland Netherlands worldstream.com</div>",
       "shape":"image",
-      "image":"ntrld.png"
+      "image":"ntrld.png",
+      "size":50,
+      "shadow":true
     },
     {
       "id": "109.236.95.230",
@@ -349,7 +353,9 @@
       "cx": "New York City New York United States cdn77.com",
       "title": "<div> AS: AS60068<br> New York City New York United States cdn77.com</div>",
       "shape":"image",
-      "image":"us.jpg"
+      "image":"us.jpg",
+      "size":50,
+      "shadow":true
     },
     {
       "id": "185.229.188.174",
@@ -515,7 +521,8 @@
       "cx": "Bharti Airtel Limited",
       "title": "<div> AS:AS9498<br>         Bharti Airtel Limited</div>",
       "shape":"image",
-      "image":"airtel.png"
+      "image":"airtel.png",
+      "size":50
     },
     {
       "id": "182.79.239.197",
@@ -729,7 +736,8 @@
       "cx": "",
       "title": "<div> AS:AS59193<br>IIT Hyderabad</div>",
       "shape":"image",
-      "image":"iith.png"
+      "image":"iith.png",
+      "size":50
     },
     {
       "id": "10.160.24.5",
@@ -1137,7 +1145,8 @@
     },
     {
       "from": "182.79.27.25",
-      "to": "182.79.198.6"
+      "to": "182.79.198.6",
+      "length": 250
     },
     {
       "from": "182.79.198.6",
@@ -1149,7 +1158,8 @@
     },
     {
       "from": "182.79.27.25",
-      "to": "116.119.73.110"
+      "to": "116.119.73.110",
+      "length": 250
     },
     {
       "from": "116.119.73.110",
@@ -1185,7 +1195,8 @@
     },
     {
       "from": "182.79.27.25",
-      "to": "116.119.109.124"
+      "to": "116.119.109.124",
+      "length": 250
     },
     {
       "from": "116.119.109.124",
@@ -1225,7 +1236,8 @@
     },
     {
       "from": "182.79.27.25",
-      "to": "74.125.252.91"
+      "to": "74.125.252.91",
+      "length": 250
     },
     {
       "from": "74.125.252.91",
@@ -1343,7 +1355,8 @@
 },
 {
   "from": "182.79.27.25",
-  "to": "182.79.239.197"
+  "to": "182.79.239.197",
+  "length": 250
 },
 {
   "from": "182.79.239.197",
@@ -1539,7 +1552,8 @@
 },
 {
   "from": "10.119.73.122",
-  "to": "216.239.32.21"
+  "to": "216.239.32.21",
+  "length": 350
 },
 {
   "from": "10.119.254.121",
