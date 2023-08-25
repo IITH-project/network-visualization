@@ -8,6 +8,11 @@ function App() {
   return (
     <div className="App">
         <Graph/>
+
+        <a class="github-button" href="https://github.com/your-username" target="_blank">
+        <span class="icon"></span>
+        GitHub
+    </a>
     </div>
   );
 }
